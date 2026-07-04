@@ -17,7 +17,6 @@ An open-source AI-powered language learning platform featuring
 
 - M.Sc. in Physics
 - Former Research Associate at DHBW Ravensburg (autonomous driving, ROS/ROS2, scientific software)
-- Peer-reviewed publications in robotics and simulation
 - Lecturer for programming and engineering courses
 - Currently expanding my software engineering expertise (Masterschool / MSIT)
 
