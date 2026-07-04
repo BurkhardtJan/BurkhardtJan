@@ -32,6 +32,8 @@ An open-source AI-powered language learning platform featuring
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
+
 ## 🏠 Homelab
 
 I enjoy building and operating self-hosted infrastructure on Proxmox.
@@ -48,6 +50,8 @@ Current services include
 ## 📫 Connect
 
 - LinkedIn: [Jan Burkhardt](https://www.linkedin.com/in/jan-burkhardt/)
+- ORCID: [0009-0006-0543-5064](https://orcid.org/0009-0006-0543-5064)
+
 ---
 
 <!--
