@@ -1,18 +1,25 @@
 # Hi, I'm Jan 👋
 
-Physicist (M.Sc.) | Research Software Engineer — bridging simulation, robotics, and applied AI.
+Physicist (M.Sc.) | Research Software Engineer | Lecturer — focused on robotics, simulation, and applied AI.
 
-## 🔭 What I'm building
+## 🔭 Current Project
 
-**[Dengwa AI](https://github.com/BurkhardtJan/dengwa-ai)** — a FastAPI/PostgreSQL/React language-learning app with RAG (pgvector), SM-2 spaced repetition, Anki-compatible vocabulary import, multi-provider LLM abstraction (Groq, Gemini, OpenAI, Ollama), and a branching multi-model chat UI.
+**[Dengwa AI](https://github.com/BurkhardtJan/dengwa-ai)** 
+An open-source AI-powered language learning platform featuring
 
+- RAG with pgvector
+- Multi-provider LLM support (OpenAI, Gemini, Groq, Ollama)
+- Branching multi-model conversations
+- FastAPI + PostgreSQL backend
+- React + TypeScript frontend
 
 ## 🧪 Background
 
-- Research Associate @ DHBW Ravensburg — Center for Digitalization in Mobility Systems (autonomous driving, ROS/ROS2, peer-reviewed publications)
-- Freelance lecturer @ IWT Wirtschaft und Technik GmbH
-- Currently deepening software engineering fundamentals (Masterschool/MSIT)
-
+- M.Sc. in Physics
+- Former Research Associate at DHBW Ravensburg (autonomous driving, ROS/ROS2, scientific software)
+- Peer-reviewed publications in robotics and simulation
+- Lecturer for programming and engineering courses
+- Currently expanding my software engineering expertise (Masterschool / MSIT)
 
 ## 🛠️ Stack
 
@@ -27,9 +34,18 @@ Physicist (M.Sc.) | Research Software Engineer — bridging simulation, robotics
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ## 🏠 Homelab
 
-Proxmox-based self-hosted infrastructure: Gitea, Home Assistant (PyScript automations, Zigbee), Paperless-ngx, Mealie, Wiki.js, Tailscale.
+I enjoy building and operating self-hosted infrastructure on Proxmox.
 
-## 📫 Reach me
+Current services include
+
+- Gitea
+- Home Assistant (PyScript, Zigbee)
+- Paperless-ngx
+- Mealie
+- Wiki.js
+- Tailscale
+
+## 📫 Connect
 
 - LinkedIn: [Jan Burkhardt](https://www.linkedin.com/in/jan-burkhardt/)
 ---
