@@ -1,17 +1,15 @@
 # Hi, I'm Jan 👋
 
-Physicist (M.Sc.) | Research Software Engineer | Lecturer — focused on robotics, simulation, and applied AI.
-
+**Physicist (M.Sc.) | Research Software Engineer | Lecturer**  
+Bridging the gap between scientific computing, robotics, and applied AI.
 ## 🔭 Current Project
 
-**[Dengwa AI](https://github.com/BurkhardtJan/dengwa-ai)** 
-An open-source AI-powered language learning platform featuring
+### **[Dengwa AI](https://github.com/BurkhardtJan/dengwa-ai)** 
+*An open-source, AI-powered language learning platform featuring autonomous branching multi-model conversations.*
 
-- RAG with pgvector
-- Multi-provider LLM support (OpenAI, Gemini, Groq, Ollama)
-- Branching multi-model conversations
-- FastAPI + PostgreSQL backend
-- React + TypeScript frontend
+*   **Backend:** FastAPI & PostgreSQL with `pgvector` for scalable Semantic Search / RAG.
+*   **AI Integration:** Multi-provider LLM support (OpenAI, Gemini, Groq, Ollama) for flexible inference.
+*   **Frontend:** Modern, responsive UI built with React and TypeScript.
 
 ## 🧪 Background
 
@@ -20,18 +18,22 @@ An open-source AI-powered language learning platform featuring
 - Lecturer for programming and engineering courses
 - Currently expanding my software engineering expertise (Masterschool / MSIT)
 
-## 🛠️ Stack
+## 🛠️ Tech Stack & Tools
 
+### Languages & Frameworks
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![ROS2](https://img.shields.io/badge/-ROS2-22314E?style=flat-square&logo=ros&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Proxmox](https://img.shields.io/badge/-Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white)
+![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
+
+### DevOps & Infrastructure
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Proxmox](https://img.shields.io/badge/-Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+
 
 ## 🏠 Homelab
 
